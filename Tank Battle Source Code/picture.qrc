@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>background2.jpg</file>
+        <file>btn1.jpg</file>
+        <file>btn2.jpg</file>
+        <file>btn3.jpg</file>
+        <file>btn4.jpg</file>
+        <file>btn5.jpg</file>
+        <file>timg.jpg</file>
+        <file>tank.ico</file>
+        <file>ok.png</file>
+        <file>background4.jpeg</file>
+        <file>bullet.png</file>
+        <file>map_block.png</file>
+        <file>player_tank.png</file>
+        <file>cry.ico</file>
+        <file>laugh.ico</file>
+        <file>music.mp3</file>
+        <file>tank_model.png</file>
+        <file>tank_right.png</file>
+        <file>tank_down.png</file>
+        <file>tank_left.png</file>
+        <file>bullet_down.png</file>
+        <file>bullet_left.png</file>
+        <file>bullet_right.png</file>
+        <file>bullet_up.png</file>
+        <file>my_down.png</file>
+        <file>my_left.png</file>
+        <file>my_right.png</file>
+        <file>my_up.png</file>
+        <file>your_down.png</file>
+        <file>your_left.png</file>
+        <file>your_right.png</file>
+        <file>your_up.png</file>
+        <file>big_right.png</file>
+        <file>big_down.png</file>
+        <file>big_left.png</file>
+        <file>big_up.png</file>
+        <file>new_bullet.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
